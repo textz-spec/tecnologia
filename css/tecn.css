@@ -1,0 +1,52 @@
+body { 
+    background-color: cadetblue;
+}
+h1,h2,h3 {
+    color:blue;
+}
+
+<!--tabela-->
+
+table {
+    border-collapse: collapse;
+
+}
+
+table, th, td {
+     border: 1px solid black;
+
+}
+
+hr {
+   border: none;
+   height: 2px;
+   background-color: black;
+}
+.esquerda{
+    float:left;
+    overflow: hidden;
+}
+.esse{
+text-align: right;
+overflow: hidden;
+}
+#overflow{
+    overflow: hidden;
+}
+.direita{
+    float: right;
+    overflow: hidden;
+    
+}
+#direita{
+    text-align: right;
+    overflow: hidden;
+}
+#centro{
+    float: right;
+    
+}
+.centro{
+    text-align: center;
+    overflow: hidden;
+}
